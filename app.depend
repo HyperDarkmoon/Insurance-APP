@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669389865 source:c:\users\asus\desktop\app\function.c
+	"prototypes.h"
+
+1669389760 c:\users\asus\desktop\app\prototypes.h
+	<stdio.h>
+	<stdlib.h>
+
+1669389612 source:c:\users\asus\desktop\app\main.c
+	"prototypes.h"
+
